@@ -1,0 +1,2 @@
+讓使用者可以只需要一個Script檔，就可以執行原來需要repo forall的功能，的小程式。
+當所Project不是用repo所init出來的時後，還滿好用的。
